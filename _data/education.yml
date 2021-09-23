@@ -1,10 +1,14 @@
-- course: BA Linguistics; BA Spanish
+- degree: AA in Liberal Arts
+  institute: Sacramento City College
+  dates: 2011 - 2014
+  logo: scc.png
+
+- degree: BA in Linguistics; BA in Spanish
   institute: Pomona College
   dates: 2014 - 2017
   logo: pomona.png
   
-- course: PhD Hispanic Linguistics
+- degree: MA, PhD in Hispanic Linguistics
   institute: UC Berkeley
   dates: 2017 - 2023
   logo: berkeley.png
-  

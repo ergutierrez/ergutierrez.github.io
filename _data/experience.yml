@@ -1,4 +1,9 @@
-- role: Pre Fellowship Fellow
-  company: MLH Fellowship
+- role: Language Instructor
+  company: UC Berkeley
+  dates: 2019 - 2021
+  logo: berkeley.png
+
+- role: Summer Intern
+  company: Tech Center, UHM
   dates: Summer 2021
-  logo: fellowship.svg
+  logo: uhm.png

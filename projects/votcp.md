@@ -3,7 +3,7 @@ title: VOT-CP
 layout: page
 ---
 
-[VOT-CP (VOT coding and predictions)](https://github.com/llcit/vot-cp)
+# [VOT-CP (VOT coding and predictions)](https://github.com/llcit/vot-cp)
 
 ## Inspiration
 

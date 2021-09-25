@@ -1,20 +1,12 @@
 ---
-title: My Project
+title: TABLE
 layout: page
 ---
 
 ## Inspiration
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+While linguistics is a field that deals with people and their speech, we sometimes forget about the impact that some societal behaviors may have on certain groups. As such, [TABLE](https://lx.berkeley.edu/towards-better-linguistics-environment-table) organizers decided to get together to create a talk series to inform linguists and others interested in the intersection of language and social justice to learn about steps that we can take to make the field a more inclusive one.
 
 ## What it does
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## How we built it
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## Challenge we ran into
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+TABLE is a special Fall Colloquium Series hosted by the Linguistics Department. This series aims to give space to socially and theoretically important topics which are historically neglected within the fields of linguistics and language studies. Speakers will touch on topics including language and gender, language and race, signed language, language and ability, decolonizing linguistics, and social justice pedagogy. While a primary goal of this series is to generate ideas for GSIs and faculty across departments to incorporate directly into their teaching and research, this talk series will be of interest to the general public and all are welcome.

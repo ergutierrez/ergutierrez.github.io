@@ -1,5 +1,5 @@
 ---
-title: My Project
+title: CSS course description
 layout: page
 ---
 

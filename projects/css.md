@@ -3,18 +3,23 @@ title: My Project
 layout: page
 ---
 
-## Inspiration
+## Description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+With the desire to learn more about computational social science, I'm embarked on a process to learn more about how computational approaches can be used responsibly and effectively in the study of people and their behavior. As such, I've enrolled in Computational Social Science 273L at UC Berkeley. In this course in this course, we will reach the following learning objectives:
 
-## What it does
+- Proficiency with tools for reproducibility of research
+- Conceptual understanding of machine learning methods, including strengths and weaknesses of various algorithms and their appropriate application to different kinds of prediction and classification problems
+- Ability to apply these concepts and execute relevant methodologies on social science data in Python and correctly interpret results
+- Familiarity with key empirical papers that apply computational social science methods to research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+And we will covers topics such as:
 
-## How we built it
+- Reproducibility
+- Transparency
+- Ethics
+- Machine learning
+    * Regression
+    * Classification
+    * Clustering
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-## Challenge we ran into
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This page will show new projects created throughout this course.

@@ -5,6 +5,8 @@ layout: page
 
 ## Inspiration
 
+[VOT-CP (VOT coding and predictions)](https://github.com/llcit/vot-cp)
+
 Voice onset time (VOT) is an acoustic measurement often used in linguistic research. However, obtaining such measurements is a task done by hand, slowing the research process for many linguists. As such, taking advantage of pre-existing resources, with the help of the Tech Center's staff, I created a Python library that helps automate the VOT measurement collection process. To access this tool, go to https://github.com/llcit/vot-cp.
 
 ## What it does
